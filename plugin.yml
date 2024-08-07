@@ -1,0 +1,6 @@
+---
+name: PerWorldChunkTick
+version: 1.0.0
+main: HGRgamer\PerWorldChunkTick\Main
+api: 5.0.0
+...

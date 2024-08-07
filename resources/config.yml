@@ -1,0 +1,9 @@
+# Set value to 0 to disable the chunk-ticking
+
+# Default tick radius for worlds that are not listed in the world-tick-radius section
+default-tick-radius: 3
+
+world-tick-radius:
+  world: 3
+  # world2: 0
+  # world3: 2
